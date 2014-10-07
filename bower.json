@@ -12,7 +12,8 @@
         "accordion"
     ],
     "dependencies": {
-        "jquery": ">= 1.4.2"
+        "jquery": ">= 1.4.2",
+        "jquery.cookie": ">= 1.4.1"
     },
     "license": "MIT",
     "ignore": [
