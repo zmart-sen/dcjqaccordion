@@ -1,0 +1,19 @@
+{
+  "name": "dcjqaccordion",
+  "version": "1.0.0",
+  "description": "dcjqaccordion with manifest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zmart-sen/dcjqaccordion.git"
+  },
+  "author": "Zac M via Albert Edevigo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zmart-sen/dcjqaccordion/issues"
+  },
+  "homepage": "https://github.com/zmart-sen/dcjqaccordion#readme"
+}
